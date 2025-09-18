@@ -1,0 +1,6 @@
+@Tbilink_Back_HostAddress = http://localhost:5136
+
+GET {{Tbilink_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

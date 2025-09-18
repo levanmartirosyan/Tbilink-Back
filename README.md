@@ -23,7 +23,7 @@ cd Tbilink-Back
 Update the connection string in appsettings.json:
 
 "ConnectionStrings": {
-  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=TbilinkDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=TbilinkDB;Trusted_Connection=True;TrustServerCertificate=true"
 }
 
 

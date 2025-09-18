@@ -37,14 +37,14 @@ dotnet run
 
 Backend will be available at:
 
-http://localhost:5000
+http://localhost:5136
 
 📖 Swagger API Docs
 
 Swagger UI is enabled in development mode.
 Once the API is running, visit:
 
-👉 http://localhost:5000/swagger
+👉 http://localhost:5136/swagger
 
 Here you can test all endpoints directly.
 

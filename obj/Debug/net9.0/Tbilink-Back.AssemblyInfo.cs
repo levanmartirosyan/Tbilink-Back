@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tbilink-Back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b54c61bdc66b33e31494bd4a6ec3f58de5483b9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tbilink-Back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tbilink-Back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
